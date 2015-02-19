@@ -9,7 +9,6 @@ githubUserSearch.controller('GitUserSearchController', function($scope, $resourc
 			q: $scope.searchTerm
 		});
 
-
 	};
 
 });
